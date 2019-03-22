@@ -1049,7 +1049,8 @@ ul.address li ul.agileits-address-text li a:hover{
 @media screen and (max-width: 800px){
     .w3l-button.banner-btn {
         width: 26%;
-        padding-bottom: 12%;
+        padding-top: 6%;
+        padding-bottom: 6%;
     }	
 	figcaption.w3layouts-caption h3 {
 		margin-top: 120px;
@@ -1115,7 +1116,8 @@ ul.address li ul.agileits-address-text li a:hover{
 @media screen and (max-width: 667px){
     .w3l-button.banner-btn {
         width: 29%;
-        padding-bottom: 20%;
+        padding-top: 10%;
+        padding-bottom: 10%;
     }
 	h3.w3l-heading {
 		width: 25%;
@@ -1146,7 +1148,8 @@ ul.address li ul.agileits-address-text li a:hover{
    }
     .w3l-button.banner-btn {
         width: 31%;
-        padding-bottom: 16%;
+        padding-top: 10%;
+        padding-bottom: 10%;
     }
 }   
 
@@ -1185,7 +1188,8 @@ ul.address li ul.agileits-address-text li a:hover{
 	}
     .w3l-button.banner-btn {
         width: 35%;
-        padding-bottom: 36%;
+        padding-top: 15%;
+        padding-bottom: 15%;
     }
 	h3.w3l-heading {
 		width: 32%;
@@ -1213,7 +1217,8 @@ ul.address li ul.agileits-address-text li a:hover{
 	}
     .w3l-button.banner-btn {
         width: 40%;
-        padding-bottom: 36%;
+        padding-top: 20%;
+        padding-bottom: 20%;
     }
 	.banner-text p {
 		letter-spacing: 2px;
