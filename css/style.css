@@ -119,12 +119,12 @@ nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
     background: rgba(0, 0, 0, 0.75);
 }
 .header h2 {
-    font-size: 5em;
+    font-size: 6em;
     letter-spacing: 3px;
     font-weight: 700;
     color: #FFF;
     text-align: center;
-	font-family: 'Dancing Script', cursive;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, cursive;
 }
 .header a {
     display: block;
@@ -175,8 +175,7 @@ nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
     border: 1px solid #ece4e4;
 }
 h4.modal-title {
-    font-size: 2em;
-    text-transform: uppercase;
+    font-size: 1em;
     letter-spacing: 2px;
     color: #000;
 }
@@ -859,7 +858,7 @@ ul.address li ul.agileits-address-text li {
     color: #000;
     margin-top: 1em;
 	font-weight:300;
-    padding-right:32%;
+    padding-right:50%;
 }
 ul.address li ul.agileits-address-text li:nth-child(1){
 	width: 20%;
