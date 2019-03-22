@@ -989,9 +989,9 @@ ul.address li ul.agileits-address-text li a:hover{
 	div#edu .container,div#exp .container {
 		width: 100%;
 	}
-	.w3l-button.banner-btn {
-    	width: 26%;
-	}
+    .w3l-button.banner-btn {
+        width: 26%;
+    }
 	.w3_agile-contact form {
 		width: 78%;
 	}
@@ -1047,9 +1047,10 @@ ul.address li ul.agileits-address-text li a:hover{
 	}
 }
 @media screen and (max-width: 800px){
-	.w3l-button.banner-btn {
-		width: 26%;
-	}	
+    .w3l-button.banner-btn {
+        width: 26%;
+        padding-bottom: 12%;
+    }	
 	figcaption.w3layouts-caption h3 {
 		margin-top: 120px;
 	}
@@ -1112,9 +1113,10 @@ ul.address li ul.agileits-address-text li a:hover{
 	}
 }	
 @media screen and (max-width: 667px){
-	.w3l-button.banner-btn {
-		width: 29%;
-	}
+    .w3l-button.banner-btn {
+        width: 29%;
+        padding-bottom: 20%;
+    }
 	h3.w3l-heading {
 		width: 25%;
 	}
@@ -1142,9 +1144,10 @@ ul.address li ul.agileits-address-text li a:hover{
    .work1 p, .work-right1 p {
 		font-size: 1em;
    }
-   .w3l-button.banner-btn {
-		width: 31%;
-	}
+    .w3l-button.banner-btn {
+        width: 31%;
+        padding-bottom: 16%;
+    }
 }   
 
 @media screen and (max-width: 600px){
@@ -1179,10 +1182,11 @@ ul.address li ul.agileits-address-text li a:hover{
 	}
 	.header h1 {
 		font-size: 4.5em;
-	}	
-	.w3l-button.banner-btn {
-		width: 35%;
 	}
+    .w3l-button.banner-btn {
+        width: 35%;
+        padding-bottom: 36%;
+    }
 	h3.w3l-heading {
 		width: 32%;
 	}
@@ -1209,6 +1213,7 @@ ul.address li ul.agileits-address-text li a:hover{
 	}
     .w3l-button.banner-btn {
         width: 40%;
+        padding-bottom: 36%;
     }
 	.banner-text p {
 		letter-spacing: 2px;
@@ -1286,7 +1291,7 @@ ul.address li ul.agileits-address-text li a:hover{
 	}
     .w3l-button.banner-btn {
         width: 49%;
-        padding: 36%;
+        padding-bottom: 36%;
     }
 	.banner-text.text-center {
 		padding: 7em 0 0;
