@@ -99,7 +99,7 @@ nav.navbar.navbar-default.navbar-fixed-top {
 	transition:.5s all;
 }
 .navbar-default .navbar-nav > li > a {
-    color: #eca204;
+    color: #0396ec;
     font-size: 1.2em;
     font-weight: 400;
     letter-spacing: 1px;
@@ -180,7 +180,7 @@ h4.modal-title {
     color: #000;
 }
 .w3l-button a:hover {
-    color: #ce7501;
+    color: #1500ce;
 }
 .services,.portfolio,.agile-edu,.w3_agileits-contact{
    	padding:4em 0;
@@ -219,7 +219,7 @@ h3.w3l-heading {
     text-transform: uppercase;
     font-weight: bold;
     letter-spacing: 5px;
-    border:1px solid #ce7501;
+    border:1px solid #1500ce;
     width: 15%;
     margin: 0 auto;
     padding: 0.4em;
@@ -299,7 +299,7 @@ h3.w3l-heading {
     top: 29%;
     right: 14%;
     padding: 4em;
-    background: rgb(231, 160, 7);
+    background: #0269be;
     border: 1px solid #ece4e4;
     position: absolute;
 }
@@ -328,7 +328,7 @@ h3.w3l-heading {
 .w3l-button.banner-btn a {
     background: transparent;
     padding: 0.4em 0 0.3em;
-    border: 2px solid #ce7501;
+    border: 2px solid #1500ce;
     font-weight: 500;
     color: #fff;
 }
@@ -525,9 +525,9 @@ figcaption.w3layouts-caption:hover {
     transform: rotate(-180deg);
 }
 .simplefilter li.active,.simplefilter li:hover {
-    background: #ce7501;
+    background: #1500ce;
     color: #fff;
-    border: 1px solid #ce7501;
+    border: 1px solid #1500ce;
 	transition:0.5s all;
 	-webkit-transition:0.5s all;
 	-moz-transition:0.5s all;
@@ -616,7 +616,7 @@ span.edu-circle {
     color: #fff;
     margin-bottom: .5em;
     display: inline-block;
-    background: #ce7501;
+    background: #1500ce;
     padding: 0.8em 1.5em;
     letter-spacing: 1px;
 }
@@ -629,7 +629,7 @@ span.edu-circle {
     right: 0;
     border-style: solid;
     border-width: 10px 0 10px 16px;
-    border-color: transparent transparent transparent rgb(206, 117, 1);
+    border-color: transparent transparent transparent #0089ce;
 }
 .work-right .work2 h5:after {
 	 width: 0;
@@ -640,7 +640,7 @@ span.edu-circle {
     left: 0;
     border-style: solid;
     border-width: 10px 0 10px 16px;
-    border-color: transparent transparent transparent rgb(206, 117, 1);
+    border-color: transparent transparent transparent #0089ce;
     transform: rotate(180deg);
 }
 .work-right.work-right2 {
@@ -706,7 +706,7 @@ span.edu-circle {
     color: #fff;
     font-size: 1.1em;
     background: transparent;
-    border: 1px solid #ce7501;
+    border: 1px solid #1500ce;
     outline: none;
     -webkit-appearance: none;
     margin: 1em 0 0;
@@ -715,7 +715,7 @@ span.edu-circle {
 .w3_agile-contact input.email {
     padding: 1em 0.5em;	
     background: transparent;
-    border: 1px solid #ce7501;
+    border: 1px solid #1500ce;
     width: 100%;
     color: #fff;
     font-size: 1em;
@@ -729,7 +729,7 @@ span.edu-circle {
     width: 100%;
     color: #fff;
     background: transparent;
-    border: 1px solid #ce7501;
+    border: 1px solid #1500ce;
     font-size: 1em;
     outline: none;
     padding: 1em 0.5em;
@@ -746,7 +746,7 @@ span.edu-circle {
     font-weight: 500;
     padding: 0.4em 0.5em;
     text-decoration: none;
-    background: #ce7501;
+    background: #1500ce;
     margin: 1em auto;
     -webkit-appearance: none;
     transition: 0.5s all;
@@ -758,7 +758,7 @@ span.edu-circle {
     display: block;
 }
 .w3_agile-contact input[type="submit"]:hover {
-	color:#eca204;
+	color:#0396ec;
 	background:#fff;
 }
 .w3_agile-contact ::-webkit-input-placeholder {
@@ -781,7 +781,7 @@ span.edu-circle {
 }
 .w3_agile-contact a {
     font-size: 2em;
-    color: #eca204;
+    color: #0396ec;
 }
 .w3_agile-contact a:hover {
     color: #000;
@@ -820,13 +820,13 @@ h6.wthree-footer-text {
     letter-spacing: 1px;
 }
 .agileits_w3layouts-footer p {
-    color: #ce7501;
+    color: #1500ce;
     font-size: 1.2em;
 	font-family: 'Yanone Kaffeesatz', sans-serif;
     letter-spacing: 2px;
 }
 .agileits_w3layouts-footer a{
-	color:#ce7501;
+	color:#1500ce;
 	font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .agileits_w3layouts-footer a:hover{
@@ -842,13 +842,13 @@ h6.wthree-footer-text {
 }
 
 .about-left img {
-    border: 5px solid #ce7501;
+    border: 5px solid #1500ce;
     padding: 5px;
 }
 ul.address {
     margin: auto;
     padding-top: 0.5em;
-    padding-left: 1em;
+    padding-left: 5em;
     padding-bottom: 0.5em;
 }
     ul.address li {
@@ -860,13 +860,13 @@ ul.address {
             font-size: 1.2em;
             margin-top: 1em;
             font-weight: 300;
-            padding-right: 50%;
+            padding-right: 42%;
         }
 ul.address li ul.agileits-address-text li:nth-child(1){
 	width: 20%;
 }
             ul.address li ul.agileits-address-text li a {
-                color: #871b1b;
+                color: #ff0000;
                 text-decoration: none;
             }
 ul.address li ul.agileits-address-text li a:hover{
