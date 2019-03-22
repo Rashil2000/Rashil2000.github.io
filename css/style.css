@@ -848,7 +848,7 @@ h6.wthree-footer-text {
 ul.address {
     margin: auto;
     padding-top: 0.5em;
-    padding-left: 5em;
+    padding-left: 6.8em;
     padding-bottom: 0.5em;
 }
     ul.address li {
@@ -860,7 +860,7 @@ ul.address {
             font-size: 1.2em;
             margin-top: 1em;
             font-weight: 300;
-            padding-right: 42%;
+            padding-right: 50%;
         }
 ul.address li ul.agileits-address-text li:nth-child(1){
 	width: 20%;
@@ -871,11 +871,6 @@ ul.address li ul.agileits-address-text li:nth-child(1){
             }
 ul.address li ul.agileits-address-text li a:hover{
     color: #000;
-}
-.about2 {
-    
-    padding-left: 23%;
-    padding-right: 35%;
 }
 
 /*-- //about --*/
