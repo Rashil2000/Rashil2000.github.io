@@ -873,7 +873,12 @@ ul.address li ul.agileits-address-text li:nth-child(1){
             }
 ul.address li ul.agileits-address-text li a:hover{
     color: #000;
-} 
+}
+.about2 {
+    
+    padding-left: 25%;
+    padding-right: 35%;
+}
 
 /*-- //about --*/
 /* -- Responsive code -- */
