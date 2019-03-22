@@ -1291,7 +1291,8 @@ ul.address li ul.agileits-address-text li a:hover{
 	}
     .w3l-button.banner-btn {
         width: 49%;
-        padding: 30%;
+        padding-top: 20%;
+        padding-bottom: 20%;
     }
 	.banner-text.text-center {
 		padding: 7em 0 0;
