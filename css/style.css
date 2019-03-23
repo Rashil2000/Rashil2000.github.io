@@ -282,6 +282,7 @@ h3.w3l-heading {
     color: #000000;
     font-size: 1.05em;
     margin: 0 auto;
+    text-align:justify;
     letter-spacing: 1px;
     line-height: 1.8em;
 }
