@@ -1,3 +1,3 @@
 # Personal Webpage
 
-[rashil2000.github.io](https://rashil2000.github.io)
+[rashil2000.me](http://rashil2000.me)
