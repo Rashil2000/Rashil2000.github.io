@@ -1,3 +1,1 @@
-# Personal Webpage
-
-[rashil2000.me](http://rashil2000.me)
+[rashil2000.me](https://rashil2000.me)
