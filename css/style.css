@@ -9,6 +9,12 @@ body {
 	margin: 0;
 	background: #FFF;
 	font-family: 'Yanone Kaffeesatz', sans-serif;
+	overflow: -moz-scrollbars-none;
+  -ms-overflow-style: none;
+}
+body::-webkit-scrollbar {
+	width: 0 !important;
+	display: none;
 }
 body a {
 	transition: 0.5s all;
